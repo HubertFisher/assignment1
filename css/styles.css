@@ -17,6 +17,7 @@ header{
     background-color: rgb(22, 27, 29);
     border-radius: 16px;
     border-style:groove;
+    border-width: 1px;
     border-color: #950740;
     
 }
@@ -98,6 +99,7 @@ main{
     margin-bottom: 20px;
     border-radius: 16px;
     border-style:groove;
+    border-width: 1px;
     border-color: #950740;
 }
 .promo_news{
@@ -150,15 +152,16 @@ h2{
     margin-bottom: 5px;
     border-radius: 16px;
     border-style:groove;
-    border-color:#950740;
+    border-width: 1px;
+    border-color: #950740;
     
 }
 .liner{
     margin-top: 0;
-    width: 14%;
+    width: 15%;
     background-color: #950740;
     border: none;
-    height: 2px;
+    height: 1px;
 }
 
 
@@ -189,6 +192,7 @@ h2{
     max-width:100%;
     border-radius: 16px;
     border-style:groove;
+    border-width: 1px;
     border-color: #950740;
     padding: 10px;
     background-color: rgb(29, 29, 29);
@@ -242,6 +246,7 @@ footer{
     justify-content: space-between;
     border-radius: 16px;
     border-style:groove;
+    border-width: 1px;
     border-color: #950740;
 }
 .nav_footer{
@@ -279,6 +284,7 @@ footer{
     background-color:rgb(29, 29, 29); 
     border-radius: 16px;
     border-style:groove;
+    border-width: 1px;
     border-color: #950740;
 }
 

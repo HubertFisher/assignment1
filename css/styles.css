@@ -172,18 +172,13 @@ h2{
 .first_news{
     display: flex;
     flex-basis: 66%;
-    padding-left: 20px;
     padding-top: 20px;
-    padding-right: 20px;
-    
 }
 .second_news{
     display: flex;
     align-items: center;
     flex-basis: 34%;
-    padding-left: 20px;
     padding-bottom: 20px;
-    padding-right: 20px;
 }
 .news{
     position: relative;

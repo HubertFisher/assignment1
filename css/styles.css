@@ -1,5 +1,5 @@
 body{
-    background: url(image/back3.jpg)  no-repeat;
+    background: url(/image/back3.jpg)  no-repeat;
     background-size: 102%;
     background-attachment: fixed;
     padding-top: 76px;

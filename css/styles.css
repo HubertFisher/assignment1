@@ -50,7 +50,7 @@ header{
     flex-basis: 40%;
     align-items: center;
 }
-.nav{
+nav{
     display: flex;
     font-size: 25px;
     padding-left: 20%;
